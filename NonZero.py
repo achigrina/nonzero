@@ -8,3 +8,4 @@ list = [int(input('Введите элемент массива ')) for i in ran
 count_nz=np.count_nonzero(list)
 print ("Количество нулевых элементов: ", n-count_nz)
 print("Количество ненулевых элементов: ", count_nz)
+
